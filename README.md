@@ -14,6 +14,7 @@
 #### Video
 * [Scrimba HTML och CSS, forts.](https://scrimba.com/learn/htmlandcss)
 #### Läsning
+* [W3Schools Responsivitet (skippa bootstrap)](https://www.w3schools.com/html/html_responsive.asp)
 * [Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [CSS Grid Guide](https://grid.malven.co/)
 
