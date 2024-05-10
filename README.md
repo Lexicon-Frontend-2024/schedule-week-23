@@ -19,7 +19,7 @@
 
 
 ## Övningar
-* 
+* [Responsivitet-bootcamp](https://github.com/Lexicon-Frontend-2024/exercise-html-css-responsivity)
 
 
 
