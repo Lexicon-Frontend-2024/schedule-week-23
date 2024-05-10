@@ -9,9 +9,6 @@
 #### E-Learning
 [Samlat innehåll för hela kursen](https://github.com/Lexicon-Frontend-2024/e-learning-material/edit/main/README.md)
 ###### Utvalda för denna veckan:
-* [Creating layouts with HTML and CSS](https://app.pluralsight.com/library/courses/css-creating-layouts/table-of-contents)
-* [CSS Flexbox Layout](https://app.pluralsight.com/library/courses/css-flexbox-layout/table-of-contents)
-* [CSS Grid Creating Layouts](https://app.pluralsight.com/library/courses/css-grid-creating-layouts/table-of-contents)
 * [CSS Flexbox för responsivitet](https://app.pluralsight.com/library/courses/css-flexbox-creating-responsive-pages/table-of-contents)
 * [Responsiva Media Queries](https://app.pluralsight.com/ilx/video-courses/clips/d07c4580-660e-4427-8972-3f7ea5874301)
 #### Video
